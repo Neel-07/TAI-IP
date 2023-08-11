@@ -47,6 +47,6 @@ git checkout recipe-finder
 Contributions to these projects are welcome! If you find issues, have ideas for improvements, or would like to add features, feel free to fork this repository, make your changes, and submit a pull request.
 
 License:
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](License).
 
 
