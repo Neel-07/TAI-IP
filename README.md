@@ -13,22 +13,22 @@ The **Flashlight App** is a simple Android application that allows users to togg
 - Toggle button to turn the flashlight on and off.
 - Basic UI design and layout.
 
-## Project 2: Recipe Finder App
+## Project 2: Weather Forecast App
 
-The **Recipe Finder App** is an Android application that enables users to search for recipes based on the ingredients they have on hand. The app utilizes a recipe API to retrieve and display recipes that match the user's input.
+The **Weather Forecast App** is an Android application that retrieves weather data from a public API (such as OpenWeatherMap) and displays the current weather conditions, along with a 5-day forecast. Users can enter a location or use their current location to fetch weather data.
 
 ### Features:
 
-- Search for recipes based on entered ingredients or predefined ingredient list.
-- Integration with a recipe API (e.g., Spoonacular or Edamam) to fetch recipe data.
-- Display recipe details including ingredients, instructions, and images.
-- User-friendly UI design for searching and viewing recipes.
+- Fetch weather data using a public API (e.g., OpenWeatherMap).
+- Display current weather conditions including temperature, humidity, wind speed, and weather icons.
+- Provide a 5-day forecast with relevant weather details.
+- Option to enter a specific location or use current location for weather retrieva
 
 ## Branches:
 
 1. `main`: Contains this README file.
 2. `flashlight`: Implementation of the Flashlight App.
-3. `recipe-finder`: Implementation of the Recipe Finder App.
+3. `WeatherApp`: Implementation of the Weather Forecast App.
 
 ## Getting Started:
 
